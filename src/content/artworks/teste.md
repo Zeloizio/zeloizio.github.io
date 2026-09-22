@@ -1,8 +1,8 @@
 ---
-image: ../../assets/artworks/teste-9ecs66.webp
+image: ../../assets/artworks/teste-oviosw.webp
 title: teste
 status: available
-alt: asdasdasd
+alt: asdasd
 audio: https://soundcloud.com/eloi-742975008/rasga-matira-explosao-1
 order: 0
 featured: false

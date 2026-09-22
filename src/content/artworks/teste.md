@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/teste-oviosw.webp
+image: ../../assets/artworks/teste-en6okb.png
 title: teste
 status: available
 alt: asdasd
